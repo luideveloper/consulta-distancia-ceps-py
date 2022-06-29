@@ -1,6 +1,6 @@
 ## 🔹 Consulta da distância entre ceps
 > Código do script desenvolvido realiza a consulta da distância entre dois ceps fornecidos pelo usuário e retorna a média da distância em quilometros e as informações dos dois ceps.
-## 🔹 Apis utilizadas
+## 🔹 Apis utilizadas:
 - Distancep: https://github.com/vnsmoreira/api-distancep
 - Viacep: https://viacep.com.br
 ## 🔹 Como rodar esse script na sua máquina:
