@@ -4,13 +4,13 @@
 - Distancep: https://github.com/vnsmoreira/api-distancep
 - Viacep: https://viacep.com.br
 ## 🔹 Como rodar esse script na sua máquina:
-1. Baixar o projeto na sua máquia.
+1. Baixar o projeto na sua máquina
 ```bash
 git clone https://github.com/luideveloper/consulta-distancia-ceps-py.git
 ```
 2. Entrar na pasta do projeto
 ```bash
-cd  consulta-distancia-ceps-py/
+cd consulta-distancia-ceps-py
 ```
 3. Instalar as dependências
 ```bash
